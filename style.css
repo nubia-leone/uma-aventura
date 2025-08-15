@@ -15,11 +15,11 @@ button {
     font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo {
+.step {
     display: none;
 }
 
-.passo.ativo {
+.step.active {
     display:block;
 }
 
